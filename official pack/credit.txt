@@ -1,6 +1,6 @@
 Credit for Resource Pack Designs and Code
 
-From Vanilla Tweaks as Whole:
+From Vanilla Tweaks as Whole (textures and json files if necessary):
 - Clear Banner Patterns
 - HD Banner Shields
 - No Blur Pumpkin Helmet
@@ -16,14 +16,14 @@ From Vanilla Tweaks as Whole:
 - Darker Dark Oak Leaves
 - Dark Prismarine Optional Background
 
-Model and Blockstates Codes from Vanilla Tweaks:
+Model and Blockstates JSON files from Vanilla Tweaks (I created my own textures for this blocks):
 - Endless End Rod Code: Created by Stridey at Vanilla Tweaks
 - Visual Waxed Copper Blocks Blockstates Code
 - Directional Hoppers Code
 - Directional Dispensers & Droppers Code
 - Directional Observers Code
 
-Inspired By Vanilla Tweaks but not their textures or code:
+Inspired By Vanilla Tweaks but did not use their textures or code:
 - Smiling Axolotls
 - Variated Bookshelves
 - Different Stems
@@ -34,6 +34,7 @@ Inspired By Vanilla Tweaks but not their textures or code:
 - Fancy Sunflowers
 - Budding Amethyst Borders
 - Ore Borders
+- Animated Campfires
 
 See what else Vanilla Tweaks has to Offer!
 https://vanillatweaks.net/picker/resource-packs/

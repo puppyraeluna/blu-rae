@@ -1,0 +1,33 @@
+Important Information Regarding New Texture Updates
+
+Dispenser
+
+vertical
+- NESW: dispenser top
+- Up: Dispenser Top Vertical
+- Down: Furnace Top
+
+regular
+- North: dispenser front
+- East: dispenser side R
+- South: dispenser back
+- West: dispenser side L
+- Up: dispenser top
+- Down: dispenser top
+
+Dropper
+
+vertical
+- NESW: Dispenser Top
+- Up: Dropper Top Vertical
+- Down: furnace top
+
+regular
+- North: Dropper Front
+- East: Dispenser Side R
+- South: Dispenser Back
+- West: Dispenser Side L
+- Up: Dispenser Top
+- Down: Dispenser Top
+
+Furnace Side texture used in Vanilla MC for Dropper and Dispenser Base Side Textures

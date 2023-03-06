@@ -5,16 +5,8 @@ From Vanilla Tweaks as Whole (textures and necessary json files):
 - HD Banner Shields
 - No Blur Pumpkin Helmet
 - Groovy Levers
-- 3D Vines
-- 3D Glow Lichen
-- 3D Rails
-- 3D Reeds
-- 3D Chains
-- 3D Ladders
 - 3D Sun and Moon
 - Dark Prismarine Optional Background
-
-For 1.19.2, I did utilize Vanilla Tweaks (VT) Faster Leaves and Darker Dark Oak Leaves texture however for 1.19.3, I removed those features and updated the vanilla Minecraft leaves texture and json file without using VT's work.
 
 Model and Blockstates JSON files from Vanilla Tweaks (I created my own textures for this blocks):
 - Endless End Rod Code: Created by Stridey at Vanilla Tweaks

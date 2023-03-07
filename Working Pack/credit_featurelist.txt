@@ -1,12 +1,12 @@
- _______   ______  ________  ______  _______   ______  ________ ________
-|       \ /      \|        \/      \|       \ /      \|        \        \
-| ▓▓▓▓▓▓▓\  ▓▓▓▓▓▓\ ▓▓▓▓▓▓▓▓  ▓▓▓▓▓▓\ ▓▓▓▓▓▓▓\  ▓▓▓▓▓▓\ ▓▓▓▓▓▓▓▓\▓▓▓▓▓▓▓▓
-| ▓▓__| ▓▓ ▓▓__| ▓▓ ▓▓__   | ▓▓   \▓▓ ▓▓__| ▓▓ ▓▓__| ▓▓ ▓▓__      | ▓▓
-| ▓▓    ▓▓ ▓▓    ▓▓ ▓▓  \  | ▓▓     | ▓▓    ▓▓ ▓▓    ▓▓ ▓▓  \     | ▓▓
-| ▓▓▓▓▓▓▓\ ▓▓▓▓▓▓▓▓ ▓▓▓▓▓  | ▓▓   __| ▓▓▓▓▓▓▓\ ▓▓▓▓▓▓▓▓ ▓▓▓▓▓     | ▓▓
-| ▓▓  | ▓▓ ▓▓  | ▓▓ ▓▓_____| ▓▓__/  \ ▓▓  | ▓▓ ▓▓  | ▓▓ ▓▓        | ▓▓
-| ▓▓  | ▓▓ ▓▓  | ▓▓ ▓▓     \\▓▓    ▓▓ ▓▓  | ▓▓ ▓▓  | ▓▓ ▓▓        | ▓▓
- \▓▓   \▓▓\▓▓   \▓▓\▓▓▓▓▓▓▓▓ \▓▓▓▓▓▓ \▓▓   \▓▓\▓▓   \▓▓\▓▓         \▓▓   Minecraft Version 1.19.3
+ _______  __                 _______   ______  ________
+|       \|  \               |       \ /      \|        \
+| ▓▓▓▓▓▓▓\ ▓▓__    __       | ▓▓▓▓▓▓▓\  ▓▓▓▓▓▓\ ▓▓▓▓▓▓▓▓
+| ▓▓__/ ▓▓ ▓▓  \  |  \______| ▓▓__| ▓▓ ▓▓__| ▓▓ ▓▓__
+| ▓▓    ▓▓ ▓▓ ▓▓  | ▓▓      \ ▓▓    ▓▓ ▓▓    ▓▓ ▓▓  \
+| ▓▓▓▓▓▓▓\ ▓▓ ▓▓  | ▓▓\▓▓▓▓▓▓ ▓▓▓▓▓▓▓\ ▓▓▓▓▓▓▓▓ ▓▓▓▓▓
+| ▓▓__/ ▓▓ ▓▓ ▓▓__/ ▓▓      | ▓▓  | ▓▓ ▓▓  | ▓▓ ▓▓_____
+| ▓▓    ▓▓ ▓▓\▓▓    ▓▓      | ▓▓  | ▓▓ ▓▓  | ▓▓ ▓▓     \
+ \▓▓▓▓▓▓▓ \▓▓ \▓▓▓▓▓▓        \▓▓   \▓▓\▓▓   \▓▓\▓▓▓▓▓▓▓▓ Minecraft Version 1.19.3
 
  __       __             __
 |__)  o  |__)    _  _   |__) _  _ |      _  _
@@ -27,7 +27,7 @@ You can also reach me at my PlanetMinecraft profile at https://www.planetminecra
 If you use my pack in any online posts, video content, and/or live streams, please copy and paste the following statement
 in your content's description box.
 
-                    Resource Pack: RaeCraft by Puppy RaeLuna
+                    Resource Pack: Blu-RAE by Puppy RaeLuna
                     https://www.youtube.com/@puppyraeluna
                     https://beacons.ai/puppyraeluna
 

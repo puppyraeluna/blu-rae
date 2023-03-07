@@ -1,9 +1,9 @@
 
 # raelunapack
 
-Repository for my Resource Pack for Vanilla Minecraft Java Edition.
+Repository for my Resource Pack for Minecraft Java Edition.
 
-[![puppyrae-logo blue capital P with a black outline and fox ears on top](https://i.postimg.cc/Gh1LLd0x/puppyrae-logo-full.png)](https://postimg.cc/dD4PnMVh)
+[![PuppyRaeLuna Logo](https://i.postimg.cc/52QLJS2N/logo-2-0.png)](https://postimg.cc/NKY57TXW)
 
 ## Authors
 
@@ -23,248 +23,159 @@ This will take you directly to where you need to save the resourcepack in order 
     
 ## Documentation
 
-RaeLuna Pack is primarily a 64x resource pack with some textures being 128x & others maintaining its Standard 16x.
+Blu-RAE (formerly known as RaeLuna Pack) is primarily a 64x resource pack with Enhanced Biomes, New Designed Mobs and Villagers, Helpful Redstone 
+Devices, Various Block Options, and New Animated Textures.
 
-The following blocks were changed (*located in the texture/block folder*):
+🙐 𝕊ℙ𝔼ℂ𝕀𝔸𝕃 𝔽𝔼𝔸𝕋𝕌ℝ𝔼𝕊 🙖
 
-- Amethyst & Budding Amethyst Block
-- Andesite & Polished Andesite
-- Bedrock
-- Calcite
-- All Red Sand & Red Sandstone Blocks
-- All Sand & Sandstone Blocks
-- All Stone Blocks & Cobblestone & Mossy Variants
-- Clay Block
-- All Deepslate Blocks Including Reinforced Deepslate
-- Obsidian & Crying Obsidian
-- All Prismarine Blocks
-- Diorite & Polished Diorite
-- Granite & Polished Granite
-- Gravel
-- Magma
-- Dripstone & Pointed Dripstone
-- Tuff
-- All Doors & Trapdoors
-- All Planks
-- Lodestone
-- Iron Bars
-- Item Frame & Glow Item Frame
-- Ladder
-- Scaffolding
-- Bookshelves
-- Bricks
-- Campfire Logs
-- All Parts of the Trees (leaves, logs, log tops, etc.) including Nether "Trees"
-- Most Flowers (all one block tall flowers & Sunflower)
-- Mushrooms (individual mushrooms & block parts)
-- All Sculk-Related Blocks
-- Sugar Cane
-- Sponge & Wet Sponge
-- Snow & Powder Snow
-- All Related Dirt Blocks
-- All Mud Related Blocks including Mangrove Roots & Muddy Mangrove Roots
-- Lily Pad
-- Lava
-- Melon
-- Pumpkin & Melon Stems
-- Azalea Related Blocks
-- All Bamboo parts
-- All Ice Blocks
-- All Pumpkins
-- Coral Blocks
-- Hay Block
-- Honey & Honeycomb Blocks
-- Dead Bush
-- Cactus
-- Cobweb
-- Cocoa Beans
-- Dried Kelp
-- Bell
-- Lectern
-- Loom
-- Respawn Anchor
-- Smithing Table
-- Stonecutter
-- Anvil
-- Barrels
-- Bee Nest & Beehive with Honey
-- Blast Furnaces
-- Brewing Stand
-- Fletching Table
-- Furnace
-- Smoker
-- Grindstone
-- Cartography Table
-- Cauldron
-- Composter
-- Conduit
-- Crafting Table
-- Enchanting Table
-- Plain & Soul Items such as Torch & Lanterns
-- Shroomlight
-- Glowstone
-- All 3 Froglights
-- End Rod
-- All Blocks, Ores, & Deepslate Ores
-- All Quartz Blocks
-- Crimson & Warped Wart Blocks plus Nylium
-- Netherrack & Nether Ores
-- All Quartz
-- All Nether Bricks
-- Soul Soil & Sand
-- All Basalt Blocks
-- All Blackstone Blocks
-- Ancient Debris
-- Netherite Block
-- End Stone & Bricks
-- Purpur Block & Pillar
-- Plain Shulker Box
-- Chorus Plant & Flower
-- Lever & Base
-- Lighting Rod
-- Piston & Sticky Piston
-- Redstone Lamp
-- Redstone Torch
-- Target
-- TNT
-- Tripwire Hook
-- Jukebox & Noteblock
-- Comparator & Repeaters
-- Daylight Detector
-- Dispenser, Observer, & Dropper
-- Hopper
-- All Rails
-- Various Color Blocks (all items that get dyed) 
-- Slime Block
-- Spawner
-- Waxed Copper Blocks (*as items in inventory, will not have a different texture when placed*)
-- Tripwire
-- Bone Block
-- Flower Pot
-- Frogspawn
-- Chain
-- Beacon
-- Cake
-- End Portal Frame
+⮞ Block Folder
+❦ All texture sizes are 64x64.
 
+Different Color Stems for Melons and Pumpkins
+Enhanced Bee Nest, Bee Hive, and Barrel
+Variated Bookshelves
+Recolored Bricks
+Retextured and Recolored Pumpkin, Carved Pumpkin, and Jack O' Lantern
+Enhanced All Chiseled Blocks
+Animal Paw Ores (Coal, Copper, Iron, Gold, Nether Gold, Emerald, Lapis Lazuli, Redstone, Diamond, and Nether Quartz)
+Retextured Ancient Debris
+Updated Crying Obsidian and Obsidian
+Heart Texture on Daylight Detector
+Enhanced Details in Coral and Dead Coral Blocks
+Utility Features to Dispenser, Dropper, Observer, Hopper
+Animated Furnace Front when On
+Variated Honeycomb Blocks
+Animated Jack O' Lantern
+Retextured Lodestone
+Retextured Prismarine, Prismarine Bricks, and Dark Prismarine
+Animated Redstone Torch
+Cute details to Redstone Lamp
+Animated Torch and Soul Torch
+Animated Wither Rose
+Highlighted Waxed Copper Blocks when in Inventory
 
-The following items were changed (*located in the texture/item*):
+⮞ Entity Folder
 
-- All Armor *excluding** Leather Armor for both the player & horse
-- Turtle Shell Helmet
-- All Variants of Swords, Axe, Pickaxe, Hoe, & Shovel
-- Trident
-- Spyglass
-- All Arrows
-- Firework Rockets
-- Bow & Crossbow
-- Totem of Undying
-- All Dyes & Dyed Candles, including Plain Candle
-- Regular & Soul Torch, Campfire, & Lantern
-- All Bottles (glass, potion, lingering, & splash)
-- All Doors
-- Bell
-- Individual Brick & Nether Brick
-- Brewing Stand
-- Amethyst Shard, Prismarine Shard & Crystal, & Nether Quartz
-- All Raw Ores, Ingots, & Nuggets
-- Redstone Dust
-- All Ores (coal, diamond, emerald)
-- Netherite Scraps & Ingots
-- All Music Discs (centers in image)
-- Axolotl in the Bucket (to match smiling axolotl entity)
-- Cake
-- Golden Apple & Golden Carrot (to make the gold textures)
-- Replaced Banner Patterns with Vanilla Tweaks Banner Patterns
-- Nether Star & End Crystal
-- Rotten Flesh
-- Seagrass
-- Sugar
-- Gunpowder
-- Glowstone Dust
-- Leather
-- Dragon's Breath
-- Experience Bottle
-- Flower Pot
-- Ghast Tear 
-- Glow Ink Sac 
-- Heart of the Sea 
-- Barrier 
-- Blaze Rod 
-- Chain 
-- Charcoal
-- Clayball
+❦ All Custom Mob Textures are done by me with the inspiration of various creators on PlanetMinecraft and at 2x Resolution.
+❦ [1.19.3 Mob Skins Collections](https://www.planetminecraft.com/collection/176815/mob-skins-utilized-in-1-19-3-resource-pack/)
+Entities C͇O͇M͇P͇L͇E͇T͇L͇Y͇ Redone:
+Allay
+Axolotls
+Bees
+Beds
+Cats
+Cow & Mooshrooms
+Enderdragon
+Enderman
+Foxes
+Frogs
+Ghasts
+Goat
+Hoglins
+Horses
+Illagers (Evoker, Evoker Fangs, Illusioner, Pillager, Ravager, Vex, and Vindicator)
+Iron Golem
+Llama
+Shulker (plus all 16 colors)
+Piglins
+Pig
+Parrots
+Rabbits
+Skeletons
+Slime and Magma Cube
+Spiders
+Striders
+Turtle
+Villagers
+All biome types and professions have been updated
+Warden
+Wither
+Wolf
+Zombies
+Blaze
+Bat
+Dolphin
+Guardian and Elder Guardian
+Phantom
+Silverfish
+Snow Golem
+Trident
+Warndering Trader
+Witch
 
+⮞ Environment Folder
+3D Sun and Moon
+From Vanilla Tweaks
 
-The following entities were changed (*located in the texture/entity*):
+⮞ GUI Folder
+Gave the GUI a Dark Cyan-ish Vibe
 
-- Allay
-- ArmorStand
-- All Axolotls
-- Polar Bear
-- All Beds
-- All colors
-- Bee
-- Bell
-- All Cat
-- Chests & the Chests in Chest Boats (*kept the vanilla boat texture*)
-- Conduit
-- All Cows
-- Creeper
-- End Crystal
-- Enderdragon
-- Enderman
-- All Foxes
-- All frogs
-- Ghast
-- Goat
-- Hoglin & Zoglin
-- Chests on side of Horses, Mules, & Donkeys plus Horse Armor
-- All Illagers (evoker, evoker fangs, illusioner, pillager, ravager, vex, vindicator)
-- Iron Golem
-- Chests on side of Llamas & Carpet Decor
-- All Panda Variations
-- All Parrots
-- Pig
-- All Piglins
-- Projectiles (Arrows)
-- All Rabbits excluding Toast (because Toast is perfect!)
-- Sheep
-- Shield From Vanilla Tweaks for higher quality banner on shields
-- All Shulker Colors
-- All Skeletons
-- Slime & Magma Cube
-- Both Spiders & their Eyes
-- Both Squids
-- Strider
-- Tadpole
-- Turtle
-- Base Villager & Zombie Villager with some variations in professions & biomes
-- Warden
-- Wither
-- Wolf
-- All Zombie variations
-- Bat
-- Beacon & End Gateway Beam
-- Blaze
-- Chicken
-- Dolphin
-- Endermite
-- Fishing Hook
-- Guardian & Elder Guardian
-- Phantom & Eyes
-- Silverfish
-- Snow Golem
-- Trident
-- Wandering Trader
-- Witch
+⮞ Item Folder
+❦ Texture size at 64x64
+Animated Items
+Amethyst Shard
+Blaze Powder
+Blaze Rod
+Campfire and Soul Campfire
+Coal
+Diamond
+Dragon's Breath
+Emerald
+End Crystal
+Ender Eye
+Ender Pearl
+Experience Bottle
+Fire Charge
+Firework Rocket
+Glowstone Dust
+Goat Horn
+Ingots (copper, gold, iron, netherite)
+Nuggets (gold and iron)
+Gunpowder
+Honey Bottle
+Lantern and Soul Lantern
+Lapis Lazuli
+Nether Star
+Prismarine Crystal and Shard
+Nether Quartz
+Raw Ores (copper, gold, iron)
+Redstone
+Seagrass
+Slime Ball
+Spectral Arrow
+Sugar
+Tipped Arrow Head
+Trident
+Totem of Undying
+Turtle Egg
+Completely Redone Items
+Dye (all 16)
+Spyglass
+Details on Banner Patterns
+* Got layout from Vanilla Tweaks and then redid the details myself
+Rotten Flesh
+Nether Tools and Armor
+Diamond Tools and Armor
+Iron Tools and Armor
+Recolored Crossbow and Bows
+Enhanced Chainmail Armor
 
+⮞ Misc. Folder
+Enhanced Powder Snow Outline
+Unobscured Pumpkin Blur
+Inspired by Vanilla Tweaks with different execution
 
-At this time, 12/22/2022, this resource pack is available for Minecraft Version 1.19.2. The full version is approximately 19MB. If you want a smaller version, please check out my [PlanetMinecraft profile](https://www.planetminecraft.com/member/puppyraeluna/) for a condensed version.
-You can also find both packs within the Reasource Pack Zips folder in this repository. Any older versions & newer versions of this pack will also be found there when applicable.
+⮞ Mob Effect Folder
+Increased resolution and enhanced the colors
 
-Some mob textures were utilized from other creators from PlanetMinecraft. Please view the credit.txt file in the Resource Pack zip file for the list of credited creators.
-The list is in Mob Order Alphabetically. You can also view the mob textures utilized in my [PlanetMinecraft Mob Skins Collections](https://www.planetminecraft.com/collection/171955/mob-skins-utilized-in-resource-pack/).
+⮞ Models Folder
+Matched armor to ore texture in pack
+
+⮞ Painting Folder
+Updated back of painting to match current planks
+
+⮞ Particle Folder
+Increased resolution and enhanced colors
 
 
 ## License
@@ -273,14 +184,6 @@ The list is in Mob Order Alphabetically. You can also view the mob textures util
 
 
 ## Screenshots
-
-[![Inside Ocean Monument with Elder Guardian, Guardian, and view of retextured Prismarine Bricks, Prismarine, and Sea Lanterns](https://i.postimg.cc/2jvLPQnz/2022-12-22-09-35-45.png)](https://postimg.cc/QV8M7W6P)
-
-[![View of Ocean Monument Walkway with two Guardians and various Prismarine Blocks](https://i.postimg.cc/D0mjwChY/2022-12-22-09-45-27.png)](https://postimg.cc/wR8cWQ7h)
-
-[![Underwater view of an Ocean Ruin with two Drowned](https://i.postimg.cc/Jz7yDSvn/2022-12-22-09-37-03.png)](https://postimg.cc/tYfR8vXQ)
-
-[![View of Ice Bergs in Cold Ocean with Texture Differences between the Ice Blocks and Packed Ice Blocks](https://i.postimg.cc/D0K02N17/2022-12-22-09-37-38.png)](https://postimg.cc/xJtn5tsZ)
 
 [![Inside an Amethyst Geode with three budding amethyst blocks](https://i.postimg.cc/SKpvf7LJ/2022-12-22-09-46-26.png)](https://postimg.cc/WdX82ZHv)
 
@@ -292,23 +195,12 @@ The list is in Mob Order Alphabetically. You can also view the mob textures util
 
 [![Cavern wall with Gold Ore blocks, Lapis Ore block, and the various rock textures](https://i.postimg.cc/GpV9ft28/2022-12-22-09-39-35.png)](https://postimg.cc/sBPVQV5s)
 
-[![Cave Dungeon with zombies and zombie spawner](https://i.postimg.cc/rsvdtm62/2022-12-22-09-40-16.png)](https://postimg.cc/gLHcCGkg)
-
 [![In an Abandoned Mineshaft with a cave spider, cave spider spawner, and cobwebs](https://i.postimg.cc/ZnZYkdhR/2022-12-22-09-42-11.png)](https://postimg.cc/qhbHygqV)
 
 [![View of Cavern floor with various ore textures and rock textures](https://i.postimg.cc/fTpFJhJ7/2022-12-22-09-43-08.png)](https://postimg.cc/vc7XNk7D)
 
-[![Retextured Enderman with Night Vision on](https://i.postimg.cc/4y3Mhf6P/2022-12-22-09-43-19.png)](https://postimg.cc/r0vgBLYR)
-
-[![Two retextured villager kids](https://i.postimg.cc/SNJ3SKNN/2022-12-22-09-44-11.png)](https://postimg.cc/xcVtgnzW)
-
-[![View on top of a Spruce Villager building and group of Blue Doll Pumpkins](https://i.postimg.cc/sgWLW0hk/2022-12-22-09-44-21.png)](https://postimg.cc/qNkQVwQw)
-
-[![Upclose view of 6 specific blocks, bricks, pumpkin, carved pumpkin, jack o' lantern, netherrack, and bone block](https://i.postimg.cc/KzjrPRW1/2022-12-22-09-59-58.png)](https://postimg.cc/8J86DPNG)
-
 [![Example of Coral Block texture changes using Bubble Coral Block and Dead Version](https://i.postimg.cc/J0BNFSMm/2022-12-22-10-00-15.png)](https://postimg.cc/ct0tg9v5)
 
-[![View of 81 Various items in Item Frames to show texture changes](https://i.postimg.cc/vBbCbLDp/2022-12-22-09-58-31.png)](https://postimg.cc/HJv6tMw2)
 ## Support
 
 For support, email puppyrae.official@gmail.com

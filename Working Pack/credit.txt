@@ -1,38 +1,215 @@
-Credit for Resource Pack Designs and Code
+ _______   ______  ________  ______  _______   ______  ________ ________
+|       \ /      \|        \/      \|       \ /      \|        \        \
+| ▓▓▓▓▓▓▓\  ▓▓▓▓▓▓\ ▓▓▓▓▓▓▓▓  ▓▓▓▓▓▓\ ▓▓▓▓▓▓▓\  ▓▓▓▓▓▓\ ▓▓▓▓▓▓▓▓\▓▓▓▓▓▓▓▓
+| ▓▓__| ▓▓ ▓▓__| ▓▓ ▓▓__   | ▓▓   \▓▓ ▓▓__| ▓▓ ▓▓__| ▓▓ ▓▓__      | ▓▓
+| ▓▓    ▓▓ ▓▓    ▓▓ ▓▓  \  | ▓▓     | ▓▓    ▓▓ ▓▓    ▓▓ ▓▓  \     | ▓▓
+| ▓▓▓▓▓▓▓\ ▓▓▓▓▓▓▓▓ ▓▓▓▓▓  | ▓▓   __| ▓▓▓▓▓▓▓\ ▓▓▓▓▓▓▓▓ ▓▓▓▓▓     | ▓▓
+| ▓▓  | ▓▓ ▓▓  | ▓▓ ▓▓_____| ▓▓__/  \ ▓▓  | ▓▓ ▓▓  | ▓▓ ▓▓        | ▓▓
+| ▓▓  | ▓▓ ▓▓  | ▓▓ ▓▓     \\▓▓    ▓▓ ▓▓  | ▓▓ ▓▓  | ▓▓ ▓▓        | ▓▓
+ \▓▓   \▓▓\▓▓   \▓▓\▓▓▓▓▓▓▓▓ \▓▓▓▓▓▓ \▓▓   \▓▓\▓▓   \▓▓\▓▓         \▓▓   Minecraft Version 1.19.3
 
-From Vanilla Tweaks as Whole (textures and necessary json files):
-- Clear Banner Patterns
-- HD Banner Shields
-- No Blur Pumpkin Helmet
-- Groovy Levers
-- 3D Sun and Moon
-- Dark Prismarine Optional Background
+ __       __             __
+|__)  o  |__)    _  _   |__) _  _ |      _  _
+|__)\/o  |   |_||_)|_)\/| \ (_|(-`|__|_|| )(_|
+    /           |  |  /
 
-Model and Blockstates JSON files from Vanilla Tweaks (I created my own textures for this blocks):
-- Endless End Rod Code: Created by Stridey at Vanilla Tweaks
-- Visual Waxed Copper Blocks Blockstates Code
-- Directional Hoppers Code
-- Directional Dispensers & Droppers Code
-- Directional Observers Code
+◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌
 
-Inspired By Vanilla Tweaks but did not use their textures or code:
-- Smiling Axolotls
-- Variated Bookshelves
-- Different Stems
-- Brown Leather
-- Unique Dyes
-- Accurate Spyglass
-- Circular Logs
-- Fancy Sunflowers
-- Budding Amethyst Borders
-- Ore Borders
-- Animated Campfires
+                                    ✴.·´¯`·.·★  ☽ 𝓽𝓱𝓪𝓷𝓴 𝔂𝓸𝓾 ☾  ★·.·`¯´·.✴
 
-See what else Vanilla Tweaks has to Offer!
-https://vanillatweaks.net/picker/resource-packs/
 
-All Custom Mob Textures are done by Me!
-If you are interested in utilizing my custom mob skins, follow the link below to my PlanetMinecraft Texture Collection.
+Thank you so much for downloading my pack! I hope you enjoy the textures I made and put together.
 
-{insert link here}
+If there are any issues with the textures that you experience, please let me know as soon as possible.
+You can do this by commenting on my pack's post wherever you downloaded it from, such as CurseForge or Modrinth.
+You can also reach me at my PlanetMinecraft profile at https://www.planetminecraft.com/member/puppyraeluna/
+
+If you use my pack in any online posts, video content, and/or live streams, please copy and paste the following statement
+in your content's description box.
+
+                    Resource Pack: RaeCraft by Puppy RaeLuna
+                    https://www.youtube.com/@puppyraeluna
+                    https://beacons.ai/puppyraeluna
+
+Lastly, if you want to continue to support me, you can do so by donating at https://ko-fi.com/puppyraeluna ↵
+
+•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+                                            (☞ ͡° ͜ʖ ͡°)☞ 𝓬𝓻𝓮𝓭𝓲𝓽 ♥♥
+
+
+Now I could not have done this without other Minecraft creators sharing their designs with the rest of the community.
+While most of the textures are originally created by me, a lot were also inspired by others as well. These creators also showed
+me how to utilize json files for various block texture changes.
+
+⮞ Vanilla Tweaks
+    https://vanillatweaks.net/
+
+⮞ Redstone Tweaks by RexxStone
+    https://www.curseforge.com/minecraft/texture-packs/redstone-tweaks
+
+❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖
+
+                                ¸¸♬·¯·♪·¯·♫¸¸ 𝓦𝓱𝓪𝓽'𝓼 𝓘𝓷 𝓽𝓱𝓮 𝓟𝓪𝓬𝓴?¸¸♫·¯·♪¸♩·¯·♬¸¸
+
+
+I attempted to update all textures to have either a 32x or 64x resolution. Some textures just have slightly more details than
+it's vanilla counterpart while some textures are completely redone, added variation and animations, etc.
+
+The Feature List below will focus specifically on the texture changes that are significantly different from its original.
+
+🙐 𝕊ℙ𝔼ℂ𝕀𝔸𝕃 𝔽𝔼𝔸𝕋𝕌ℝ𝔼𝕊 🙖
+
+⮞ Block Folder
+     ❦ All texture sizes are 64x64.
+     Different Color Stems for Melons and Pumpkins
+     Enhanced Bee Nest, Bee Hive, and Barrel
+     Variated Bookshelves
+     Recolored Bricks
+     Retextured and Recolored Pumpkin, Carved Pumpkin, and Jack O' Lantern
+     Enhanced All Chiseled Blocks
+     Animal Paw Ores (Coal, Copper, Iron, Gold, Nether Gold, Emerald, Lapis Lazuli, Redstone, Diamond, and Nether Quartz)
+     Retextured Ancient Debris
+     Updated Crying Obsidian and Obsidian
+     Heart Texture on Daylight Detector
+     Enhanced Details in Coral and Dead Coral Blocks
+     Utility Features to Dispenser, Dropper, Observer, Hopper
+     Animated Furnace Front when On
+     Variated Honeycomb Blocks
+     Animated Jack O' Lantern
+     Retextured Lodestone
+     Retextured Prismarine, Prismarine Bricks, and Dark Prismarine
+     Animated Redstone Torch
+     Cute details to Redstone Lamp
+     Animated Torch and Soul Torch
+     Animated Wither Rose
+     Highlighted Waxed Copper Blocks when in Inventory
+
+⮞ Entity Folder
+     ❦ All Custom Mob Textures are done by me with the inspiration of various creators on PlanetMinecraft and at 2x Resolution.
+     ❦ https://www.planetminecraft.com/collection/176815/mob-skins-utilized-in-1-19-3-resource-pack/
+     Entities C͇O͇M͇P͇L͇E͇T͇L͇Y͇ Redone:
+        Allay
+        Axolotls
+        Bees
+        Beds
+        Cats
+        Cow & Mooshrooms
+        Enderdragon
+        Enderman
+        Foxes
+        Frogs
+        Ghasts
+        Goat
+        Hoglins
+        Horses
+        Illagers (Evoker, Evoker Fangs, Illusioner, Pillager, Ravager, Vex, and Vindicator)
+        Iron Golem
+        Llama
+        Shulker (plus all 16 colors)
+        Piglins
+        Pig
+        Parrots
+        Rabbits
+        Skeletons
+        Slime and Magma Cube
+        Spiders
+        Striders
+        Turtle
+        Villagers
+            All biome types and professions have been updated
+        Warden
+        Wither
+        Wolf
+        Zombies
+        Blaze
+        Bat
+        Dolphin
+        Guardian and Elder Guardian
+        Phantom
+        Silverfish
+        Snow Golem
+        Trident
+        Warndering Trader
+        Witch
+
+⮞ Environment Folder
+    3D Sun and Moon
+        From Vanilla Tweaks
+
+⮞ GUI Folder
+    Gave the GUI a Dark Cyan-ish Vibe
+
+⮞ Item Folder
+     ❦ Texture size at 64x64
+     Animated Items
+        Amethyst Shard
+        Blaze Powder
+        Blaze Rod
+        Campfire and Soul Campfire
+        Coal
+        Diamond
+        Dragon's Breath
+        Emerald
+        End Crystal
+        Ender Eye
+        Ender Pearl
+        Experience Bottle
+        Fire Charge
+        Firework Rocket
+        Glowstone Dust
+        Goat Horn
+        Ingots (copper, gold, iron, netherite)
+        Nuggets (gold and iron)
+        Gunpowder
+        Honey Bottle
+        Lantern and Soul Lantern
+        Lapis Lazuli
+        Nether Star
+        Prismarine Crystal and Shard
+        Nether Quartz
+        Raw Ores (copper, gold, iron)
+        Redstone
+        Seagrass
+        Slime Ball
+        Spectral Arrow
+        Sugar
+        Tipped Arrow Head
+        Trident
+        Totem of Undying
+        Turtle Egg
+     Completely Redone Items
+        Dye (all 16)
+        Spyglass
+        Details on Banner Patterns
+            * Got layout from Vanilla Tweaks and then redid the details myself
+        Rotten Flesh
+        Nether Tools and Armor
+        Diamond Tools and Armor
+        Iron Tools and Armor
+        Recolored Crossbow and Bows
+        Enhanced Chainmail Armor
+
+⮞ Misc. Folder
+     Enhanced Powder Snow Outline
+     Unobscured Pumpkin Blur
+        Inspired by Vanilla Tweaks with different execution
+
+⮞ Mob Effect Folder
+     Increased resolution and enhanced the colors
+
+⮞ Models Folder
+     Matched armor to ore texture in pack
+
+⮞ Painting Folder
+     Updated back of painting to match current planks
+
+⮞ Particle Folder
+     Increased resolution and enhanced colors
+
+⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕
+
+░▀▀█▀▀░█░░░░█▀▀▄░█▀▀▄░█░▄░░░▒█░░▒█░▄▀▀▄░█░▒█░░
+░░▒█░░░█▀▀█░█▄▄█░█░▒█░█▀▄░░░▒▀▄▄▄▀░█░░█░█░▒█░░
+░░▒█░░░▀░░▀░▀░░▀░▀░░▀░▀░▀░░░░░▒█░░░░▀▀░░░▀▀▀░░
 

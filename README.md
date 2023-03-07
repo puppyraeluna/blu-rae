@@ -207,6 +207,8 @@ For support, email puppyrae.official@gmail.com
 
 Feel free to view my [Github Profile ReadMe](https://github.com/puppyraeluna/puppyraeluna#readme) for more information about me, Puppy RaeLuna.
 
+[Check out my Beacons Page](https://beacons.ai/puppyraeluna/) for all my social media links!
+
 If you'd like to support me and my projects, buy me coffee below! Please and Thank you!
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T3E9I76)
 

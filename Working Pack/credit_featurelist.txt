@@ -83,7 +83,8 @@ The Feature List below will focus specifically on the texture changes that are s
      Cute details to Redstone Lamp
      Animated Torch and Soul Torch
      Animated Wither Rose
-     Highlighted Waxed Copper Blocks when in Inventory
+     Highlighted Waxed Copper Blocks & Infested Blocks when in Inventory
+     Highlighted final growth stage for crops and amethyst cluster
 
 ⮞ Entity Folder
      ❦ All Custom Mob Textures are done by me with the inspiration of various creators on PlanetMinecraft and at 2x Resolution.
@@ -165,6 +166,7 @@ The Feature List below will focus specifically on the texture changes that are s
         Honey Bottle
         Lantern and Soul Lantern
         Lapis Lazuli
+        Music Discs
         Nether Star
         Prismarine Crystal and Shard
         Nether Quartz

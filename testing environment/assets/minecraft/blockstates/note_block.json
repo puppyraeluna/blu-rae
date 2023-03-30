@@ -258,10 +258,34 @@
 		},
 		{
 			"when": {
+				"instrument": "creeper"
+			},
+			"apply": {
+				"model": "minecraft:block/note_block/instrument/creeper"
+			}
+		},
+		{
+			"when": {
+				"instrument": "custom_head"
+			},
+			"apply": {
+				"model": "minecraft:block/note_block/instument/custome_head"
+				}
+		},
+		{
+			"when": {
 				"instrument": "didgeridoo"
 			},
 			"apply": {
 				"model": "minecraft:block/note_block/instrument/didgeridoo"
+			}
+		},
+		{
+			"when": {
+				"instrument": "dragon"
+			},
+			"apply": {
+				"model": "minecraft:block/note_block/instrument/dragon"
 			}
 		},
 		{
@@ -306,10 +330,26 @@
 		},
 		{
 			"when": {
+				"instrument": "piglin"
+			},
+			"apply": {
+				"model": "minecraft:block/note_block/instrument/piglin"
+			}
+		},
+		{
+			"when": {
 				"instrument": "pling"
 			},
 			"apply": {
 				"model": "minecraft:block/note_block/instrument/pling"
+			}
+		},
+		{
+			"when": {
+				"instrument": "skeleton"
+			},
+			"apply": {
+				"model": "minecraft:block/note_block/instrument/skeleton"
 			}
 		},
 		{
@@ -322,10 +362,26 @@
 		},
 		{
 			"when": {
+				"instrument": "wither_skeleton"
+			},
+			"apply": {
+				"model": "minecraft:block/note_block/instrument/wither_skeleton"
+			}
+		},
+		{
+			"when": {
 				"instrument": "xylophone"
 			},
 			"apply": {
 				"model": "minecraft:block/note_block/instrument/xylophone"
+			}
+		},
+		{
+			"when": {
+				"instrument": "zombie"
+			},
+			"apply": {
+				"model": "minecraft:block/note_block/instrument/zombie"
 			}
 		}
 	]

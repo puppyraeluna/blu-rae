@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "minecraft:block/honeycomb_block3"
+    "all": "minecraft:block/honeycomb_block/2"
   }
 }

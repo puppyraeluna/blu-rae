@@ -1,10 +1,10 @@
 {
   "variants": {
     "": [
-      { "model": "minecraft:block/birch_leaves0" },
-      { "model": "minecraft:block/birch_leaves1" },
-      { "model": "minecraft:block/birch_leaves2" },
-      { "model": "minecraft:block/birch_leaves3" }
+      { "model": "minecraft:block/leaves/birch/0" },
+      { "model": "minecraft:block/leaves/birch/1" },
+      { "model": "minecraft:block/leaves/birch/2" },
+      { "model": "minecraft:block/leaves/birch/3" }
     ]
   }
 }

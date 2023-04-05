@@ -1,10 +1,10 @@
 {
   "variants": {
     "": [
-      { "model": "minecraft:block/acacia_leaves0" },
-      { "model": "minecraft:block/acacia_leaves1" },
-      { "model": "minecraft:block/acacia_leaves2" },
-      { "model": "minecraft:block/acacia_leaves3" }
+      { "model": "minecraft:block/leaves/acacia/0" },
+      { "model": "minecraft:block/leaves/acacia/1" },
+      { "model": "minecraft:block/leaves/acacia/2" },
+      { "model": "minecraft:block/leaves/acacia/3" }
     ]
   }
 }

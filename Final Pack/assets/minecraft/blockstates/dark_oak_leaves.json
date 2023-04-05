@@ -1,10 +1,10 @@
 {
   "variants": {
     "": [
-      { "model": "minecraft:block/dark_oak_leaves0" },
-      { "model": "minecraft:block/dark_oak_leaves1" },
-      { "model": "minecraft:block/dark_oak_leaves2" },
-      { "model": "minecraft:block/dark_oak_leaves3" }
+      { "model": "minecraft:block/leaves/dark_oak/0" },
+      { "model": "minecraft:block/leaves/dark_oak/1" },
+      { "model": "minecraft:block/leaves/dark_oak/2" },
+      { "model": "minecraft:block/leaves/dark_oak/3" }
     ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/leaves",
+  "parent": "minecraft:block/leaves/leaves",
   "textures": {
     "all": "minecraft:block/leaves/acacia/2"
   }

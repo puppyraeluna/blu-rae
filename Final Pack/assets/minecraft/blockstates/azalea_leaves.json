@@ -1,10 +1,10 @@
 {
   "variants": {
     "": [
-      { "model": "minecraft:block/azalea_leaves0" },
-      { "model": "minecraft:block/azalea_leaves1" },
-      { "model": "minecraft:block/azalea_leaves2" },
-      { "model": "minecraft:block/azalea_leaves3" }
+      { "model": "minecraft:block/leaves/azalea/0" },
+      { "model": "minecraft:block/leaves/azalea/1" },
+      { "model": "minecraft:block/leaves/azalea/2" },
+      { "model": "minecraft:block/leaves/azalea/3" }
     ]
   }
 }

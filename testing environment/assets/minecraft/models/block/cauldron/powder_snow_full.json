@@ -1,11 +1,11 @@
 {
   "parent": "minecraft:block/cauldron/template_cauldron_full",
   "textures": {
-    "bottom": "minecraft:block/cauldron/bottom",
-    "content": "minecraft:block/powder_snow",
-    "inside": "minecraft:block/cauldron/inner",
-    "particle": "minecraft:block/cauldron/side",
-    "side": "minecraft:block/cauldron/side_full",
-    "top": "minecraft:block/cauldron/top_full"
+    "bottom": "block/cauldron/bottom",
+    "content": "block/powder_snow",
+    "inside": "block/cauldron/inner",
+    "particle": "block/cauldron/side",
+    "side": "block/cauldron/powder_snow/side_full",
+    "top": "block/cauldron/powder_snow/top_full"
   }
 }

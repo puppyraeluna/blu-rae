@@ -1,5 +1,5 @@
 ﻿
-# **Blu-RAE**, a Raeluna resource pack for Minecraft
+# **Blu-RAE**
 
 Repository for my Resource Pack for Minecraft Java Edition.
 

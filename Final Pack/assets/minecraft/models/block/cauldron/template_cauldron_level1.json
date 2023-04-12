@@ -1,11 +1,11 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "particle": "block/cauldron_side",
-        "top": "block/cauldron_top",
-        "bottom": "block/cauldron_bottom",
-        "side": "block/cauldron_side",
-        "inside": "block/cauldron_inner"
+        "particle": "block/cauldron/side",
+        "top": "block/cauldron/top",
+        "bottom": "block/cauldron/bottom",
+        "side": "block/cauldron/side",
+        "inside": "block/cauldron/inner"
     },
     "elements": [
         {
@@ -146,7 +146,7 @@
         },
         {
             "from": [ 2, 4, 2 ],
-            "to": [ 14, 12, 14 ],
+            "to": [ 14, 9, 14 ],
             "faces": {
                 "up": { "texture": "#content", "tintindex": 0 }
             }

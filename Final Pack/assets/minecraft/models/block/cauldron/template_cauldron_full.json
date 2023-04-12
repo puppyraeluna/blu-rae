@@ -1,11 +1,11 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "particle": "block/cauldron_side",
-        "top": "block/cauldron_top",
-        "bottom": "block/cauldron_bottom",
-        "side": "block/cauldron_side",
-        "inside": "block/cauldron_inner"
+        "particle": "block/cauldron/side",
+        "top": "block/cauldron/top",
+        "bottom": "block/cauldron/bottom",
+        "side": "block/cauldron/side",
+        "inside": "block/cauldron/inner"
     },
     "elements": [
         {

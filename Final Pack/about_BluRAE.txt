@@ -23,10 +23,8 @@
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 
 
-Blu-RAE, formally known as RaeLuna pack is a 64x resource pack for Minecraft Java Edition.
+Blu-RAE is a 64x resource pack for Minecraft Java Edition.
 The name, Blu-RAE, comes from the various blue-hues found throughout this pack as well as the enhanced resolution.
-The name came about near the end of this pack creation after I had already started the git repository under raelunapack.
-It was initially called Raeluna Pack as the textures were based off of my interests.
 
 Majority of textures are updated, including the texture for mob effects and particles, however the vanilla paintings are still the same.
 Some key features of this pack includes animal paw ores, redesigned villagers, animated items, retextured blocks, improved visibility when

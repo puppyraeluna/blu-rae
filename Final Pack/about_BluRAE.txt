@@ -30,6 +30,8 @@ Majority of textures are updated, including the texture for mob effects and part
 Some key features of this pack includes animal paw ores, redesigned villagers, animated items, retextured blocks, improved visibility when
 wearing a carved pumpkin, completely retextured mobs, darker cyan color palette menus, and unique dyes.
 
+Additionally, an in-game brewing guide has been added to help with your brewing needs.
+
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 █ ▄▄▀█▀▄▄▀█▀▄▄▀█ ▄▄▀█ ▄▄█▀▄▀██▄██ ▄▄▀█▄ ▄██▄██▀▄▄▀█ ▄▄▀

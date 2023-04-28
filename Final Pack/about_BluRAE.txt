@@ -24,13 +24,15 @@
 
 
 Blu-RAE is a 64x resource pack for Minecraft Java Edition.
-The name, Blu-RAE, comes from the various blue-hues found throughout this pack as well as the enhanced resolution.
+The name, Blu-RAE, comes from the various blue hues found throughout this pack as well as the enhanced resolution.
 
 Majority of textures are updated, including the texture for mob effects and particles, however the vanilla paintings are still the same.
 Some key features of this pack includes animal paw ores, redesigned villagers, animated items, retextured blocks, improved visibility when
-wearing a carved pumpkin, completely retextured mobs, darker cyan color palette menus, and unique dyes.
+wearing a carved pumpkin, completely retextured mobs, darker cyan color palette menus, unique dye shapes, and an in-game brewing guide.
 
-Additionally, an in-game brewing guide has been added to help with your brewing needs.
+For a full list of the features in this pack, check out the description in Modrinth or CurseForge.
+
+Currently an update for my ReadMe document in this pack's git repository is in progress.
 
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄

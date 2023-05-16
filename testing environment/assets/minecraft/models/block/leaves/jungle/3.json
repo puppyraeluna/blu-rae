@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/leaves/leaves",
+  "parent": "minecraft:block/cube_all",
   "textures": {
     "all": "minecraft:block/leaves/jungle/3"
   }

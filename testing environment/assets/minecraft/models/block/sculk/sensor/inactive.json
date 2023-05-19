@@ -6,5 +6,5 @@
         "tendrils": "block/sculk/sensor/tendril_inactive",
         "top": "block/sculk/sensor/top",
         "particle": "block/sculk/sensor/bottom"
-    },
+    }
 }

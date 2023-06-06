@@ -34,7 +34,7 @@ Here are the key features of this pack.
 
 - Bookshelf
 - Honeycomb Block
-- All Leaves *the biome tint in the leaves are also removed, so regardless of what biome the tree is planted in, the leaves will maintain their color and saturation.*
+- All Leaves 
 
 **Progress Maxed Out** *These textures have a "max" level to reach and that status is visibly indicated.*
 

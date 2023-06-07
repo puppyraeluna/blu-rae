@@ -32,8 +32,6 @@ wearing a carved pumpkin, completely retextured mobs, darker cyan color palette 
 
 For a full list of the features in this pack, check out the description in Modrinth or CurseForge.
 
-Currently an update for my ReadMe document in this pack's git repository is in progress.
-
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 █ ▄▄▀█▀▄▄▀█▀▄▄▀█ ▄▄▀█ ▄▄█▀▄▀██▄██ ▄▄▀█▄ ▄██▄██▀▄▄▀█ ▄▄▀

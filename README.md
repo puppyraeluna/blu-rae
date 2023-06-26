@@ -24,7 +24,7 @@ This will take you directly to where you need to save the resourcepack in order 
 Blu-RAE is primarily a 64x resource pack with Enhanced Biomes, New Designed Mobs and Villagers, Helpful Redstone 
 Devices, Various Block Options, and New Animated Textures.
 
-This resource pack is currently for Minecraft Java Edition version 1.19.3 1.19.4.
+This resource pack is currently for Minecraft Java Edition version 1.19 to 1.20.1.
 
 ## Special Features
 

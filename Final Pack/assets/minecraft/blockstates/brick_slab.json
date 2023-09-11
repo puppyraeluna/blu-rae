@@ -1,13 +1,13 @@
 {
   "variants": {
     "type=bottom": {
-      "model": "minecraft:block/brick_slab"
+      "model": "minecraft:block/bricks/brick_slab"
     },
     "type=double": {
-      "model": "minecraft:block/bricks"
+      "model": "minecraft:block/bricks/bricks"
     },
     "type=top": {
-      "model": "minecraft:block/brick_slab_top"
+      "model": "minecraft:block/bricks/brick_slab_top"
     }
   }
 }

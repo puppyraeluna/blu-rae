@@ -30,7 +30,7 @@ Majority of textures are updated, including the texture for mob effects and part
 Some key features of this pack includes animal paw ores, redesigned villagers, animated items, retextured blocks, improved visibility when
 wearing a carved pumpkin, completely retextured mobs, darker cyan color palette menus, unique dye shapes, and an in-game brewing guide.
 
-For a full list of the features in this pack, check out the description in Modrinth or CurseForge.
+For a full list of the features in this pack, check out the description in Modrinth.
 
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
@@ -77,10 +77,7 @@ If you use my pack in any online posts, video content, and/or live streams, copy
 -----------------------------------------------------------------
 |    Resource Pack: Blu-RAE by Puppy RaeLuna                    |
 |    https://modrinth.com/resourcepack/blu-rae                  |
-|    https://www.curseforge.com/minecraft/texture-packs/blu-rae |
 -----------------------------------------------------------------
-
-You don't need to put both the Modrinth and CurseForge link, just link to the site you downloaded this pack from.
 
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄

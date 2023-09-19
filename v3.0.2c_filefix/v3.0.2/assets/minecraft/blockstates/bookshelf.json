@@ -1,0 +1,11 @@
+{
+   "variants": {
+     "": [
+        { "model": "minecraft:block/bookshelf/0" },
+        { "model": "minecraft:block/bookshelf/1" },
+        { "model": "minecraft:block/bookshelf/2" },
+        { "model": "minecraft:block/bookshelf/3" },
+        { "model": "minecraft:block/bookshelf/4" }
+        ]
+    }
+}

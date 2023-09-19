@@ -30,13 +30,17 @@ This resource pack is currently for Minecraft Java Edition version 1.19 to 1.20.
 
 Here are the key features of this pack.
 
-**Texture Variation**
+## Texture Variation
+
+*These are textures that, when placed, has the chance of viewing a random version of that texture.*
 
 - Bookshelf
 - Honeycomb Block
-- All Leaves 
+- All Leaves
 
-**Progress Maxed Out** *These textures have a "max" level to reach and that status is visibly indicated.*
+## Progress Maxed Out
+
+*These textures have a "max" level to reach and that status is visibly indicated.*
 
 - Cauldron *visible on the top and side based on what the cauldron is filled with.*
 - Amethyst Cluster *this texture is also animated.*
@@ -45,20 +49,26 @@ Here are the key features of this pack.
 - Sweet Berry Bush
 - Kelp *Utilized VanillaTweaks Kelp Age 25 for a visual representation of its maxed age and recolored the flowers.*
 
-**Progression Indication** *These textures adjust with each level of its progress from starting to maxed out.*
+## Progression Indication
+
+*These textures adjust with each level of its progress from starting to maxed out.*
 
 - Bee Nest
 - Beehive
 - Destroy Stage *Similar mining progress outline to VanillaTweaks but with an ornate design*
 
-**Settings Indicator** *These textures have additional visual indicators highlighting the block's settings that is set by the player.*
+## Settings Indicator
+
+*These textures have additional visual indicators highlighting the block's settings that is set by the player.*
 
 - Comparator *C for Compare and S for Subtract.*
 - Repeater *The numbers 1, 2, 3, 4 are listed on the repeater for its tick delay.*
-- Note Block *Pitch listed on the block and the border changes based on the "instrument" it's producing.*
+- Note Block *Pitch listed on the block and the border changes based on the "instrument" it's producing. See screenshots for reference images below.*
 - Piston and Sticky Piston *Color differences between the piston and sticky piston on the side for additional differentiation.*
 
-**Status Indicator** *These textures provide information relating to the status of that block that is the result of player interaction.*
+## Status Indicator
+
+*These textures provide information relating to the status of that block that is the result of player interaction.*
 
 - Daylight Detector *Power level visible on the side and a visual "progress bar" on the top.*
 - Heavy and Light Weighted Pressure Plates *Power levels listed on top of the plate when utilized.*
@@ -69,7 +79,7 @@ Here are the key features of this pack.
 - Sculk Sensor *Color saturation changes when sensor is active, in cooldown mode, and off.*
 - Sculk Shrieker *Highlighted texture change when shrieker "can summon" the Warden.*
 
-**Added Animation**
+## Added Animation
 
 - Furnace *When on, the front flames (not the particles) are animated.*
 - Jack o' Lantern *The light is animated.*
@@ -79,7 +89,9 @@ Here are the key features of this pack.
 - Wither Rose
 - Amethyst Cluster *as mentioned earlier with under "Progress Maxed Out".*
 
-**3D Textures** *JSON files in Models folder are from VanillaTweaks and the block textures are my own.*
+## 3D Textures
+
+*JSON files in Models folder are from VanillaTweaks and the block textures are my own.*
 
 - Stone Cutter
 - Sugarcane
@@ -91,24 +103,25 @@ Here are the key features of this pack.
 - Chain
 - All Rails (activator, detector, powered, rail, and rail corner)
 
-**Highlighted** *These blocks has a highlighted border around them for improved visibility.*
+## Highlighted Border
+
+*These blocks has a highlighted border around them for improved visibility.*
 
 - Amethyst Budding Block
 - Ancient Debris
 - Waxed Copper Blocks *in inventory only*
 - Infested Stone Blocks *in inventory only*
 
-**Redone** *These blocks are completely redone mainly with a color change.*
+## Redone with Blue Hue
 
 - Pumpkin and Pumpkin Stems *For Blu-RAE, I found a blue pumpkin. There are blue pumpkins in game.*
-- Bricks *Blue Bricks*
-- Flower Pot *Blue to match the fact that they were crafted with blue bricks.*
 - Target Block *Blue lines instead of red and added a Creeper face to the center*
 
-**Tweaked** *These block textures are tweaked more than other blocks but not a full recoloration redesign as the redone blocks.*
+## Tweaked Textures
+
+*These block textures are tweaked more than other blocks but not a full recoloration redesign as the redone blocks.*
 
 - Barrel *Changed the open barrel texture to include a fish in water.*
-- Terracotta and Dyed Terracotta *Inspired by VanillaTweaks Minecraft Dungeons Parity pack.*
 - Cactus *Added pink flowers around the sides and top.*
 - Lily Pad *As mentioned earlier, added a pink flower on top.*
 - ORES *Stone and Deepslate Ores have animal paw prints while the Nether Ores utilizes a fossil design.*
@@ -116,11 +129,11 @@ Here are the key features of this pack.
 - Iron Bars *Utilized VanillaTweaks Iron Bar Fix to address the z fighting texture issue and textured the iron bars with my Iron Block design.*
 - Carved Pumpkin and Jack o' Lantern *Added the carved face on all sides (N,E,S,W) of the pumpkin and changed the bottom texture to match what a bottom of a pumpkin looks like, which doesn't include the stem.*
 
-**Not Block Related**
+## Not Block Related
 
 - Added a Brewing Guide in game when utilizing the Brew Stand
 - Removed the blurred pumpkin face texture when wearing a carved pumpkin and replaced with a blurred blue outline around the edges of the screen for improved visibility while maintaining a visual cue that you're wearing a pumpkin
-- Updated entity textures
+- Updated entity textures, especially villagers!
 
 
 ## Remaining Features

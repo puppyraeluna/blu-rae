@@ -1,0 +1,105 @@
+ _______  __                 _______   ______  ________
+|       \|  \               |       \ /      \|        \
+| ▓▓▓▓▓▓▓\ ▓▓__    __       | ▓▓▓▓▓▓▓\  ▓▓▓▓▓▓\ ▓▓▓▓▓▓▓▓
+| ▓▓__/ ▓▓ ▓▓  \  |  \______| ▓▓__| ▓▓ ▓▓__| ▓▓ ▓▓__
+| ▓▓    ▓▓ ▓▓ ▓▓  | ▓▓      \ ▓▓    ▓▓ ▓▓    ▓▓ ▓▓  \
+| ▓▓▓▓▓▓▓\ ▓▓ ▓▓  | ▓▓\▓▓▓▓▓▓ ▓▓▓▓▓▓▓\ ▓▓▓▓▓▓▓▓ ▓▓▓▓▓
+| ▓▓__/ ▓▓ ▓▓ ▓▓__/ ▓▓      | ▓▓  | ▓▓ ▓▓  | ▓▓ ▓▓_____
+| ▓▓    ▓▓ ▓▓\▓▓    ▓▓      | ▓▓  | ▓▓ ▓▓  | ▓▓ ▓▓     \
+ \▓▓▓▓▓▓▓ \▓▓ \▓▓▓▓▓▓        \▓▓   \▓▓\▓▓   \▓▓\▓▓▓▓▓▓▓▓ for Minecraft Java Edition Version 1.20
+
+ __       __             __
+|__)  o  |__)    _  _   |__) _  _ |      _  _
+|__)\/o  |   |_||_)|_)\/| \ (_|(-`|__|_|| )(_|
+    /           |  |  /
+
+◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌◌
+
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▀█ ▄▄▀█▀▄▄▀█ ██ █▄ ▄████ ▄▄▀█ ██ ██ █████ ▄▄▀█ ▄▄▀██ ▄▄▄
+█ ▀▀ █ ▄▄▀█ ██ █ ██ ██ █████ ▄▄▀█ ██ ██ █▄▄██ ▀▀▄█ ▀▀ ██ ▄▄▄
+█ ██ █▄▄▄▄██▄▄███▄▄▄██▄█████ ▀▀ █▄▄██▄▄▄█████ ██ █ ██ ██ ▀▀▀
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+
+Blu-RAE is a 64x resource pack for Minecraft Java Edition.
+The name, Blu-RAE, comes from the various blue hues found throughout this pack as well as the enhanced resolution.
+
+Majority of textures are updated, including the texture for mob effects and particles, however the vanilla paintings are still the same.
+Some key features of this pack includes animal paw ores, redesigned villagers, animated items, retextured blocks, improved visibility when
+wearing a carved pumpkin, completely retextured mobs, darker cyan color palette menus, unique dye shapes, and an in-game brewing guide.
+
+For a full list of the features in this pack, check out the description in Modrinth or CurseForge.
+
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▀█▀▄▄▀█▀▄▄▀█ ▄▄▀█ ▄▄█▀▄▀██▄██ ▄▄▀█▄ ▄██▄██▀▄▄▀█ ▄▄▀
+█ ▀▀ █ ▀▀ █ ▀▀ █ ▀▀▄█ ▄▄█ █▀██ ▄█ ▀▀ ██ ███ ▄█ ██ █ ██
+█ ██ █ ████ ████▄█▄▄█▄▄▄██▄██▄▄▄█▄██▄██▄██▄▄▄██▄▄██▄██▄
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+
+Thank you so much for downloading my pack! I hope you enjoy the textures I made and put together.
+
+If there are any issues, please submit a bug report where you obtained this pack, either CurseForge or Modrinth.
+
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+██ ▄▄▀█ ▄▄▀█ ▄▄█ ▄▀██▄██▄ ▄█ ▄▄
+██ ████ ▀▀▄█ ▄▄█ █ ██ ▄██ ██▄▄▀
+██ ▀▀▄█▄█▄▄█▄▄▄█▄▄██▄▄▄██▄██▄▄▄
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+
+While I am a solo resource pack creator, I could not have done this without the Minecraft creator community.
+Without you, and the specific creators I mention below, this pack wouldn't exist.
+
+⮞ Vanilla Tweaks
+    https://vanillatweaks.net/
+
+⮞ Redstone Tweaks by RexxStone
+    https://www.curseforge.com/minecraft/texture-packs/redstone-tweaks
+
+⮞ XeKr redstone display by xekr
+    https://www.curseforge.com/minecraft/texture-packs/xekr-redstone-display
+
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▀█▄ ▄█▄ ▄█ ▄▄▀██▄██ ▄▄▀█ ██ █▄ ▄██▄██▀▄▄▀█ ▄▄▀
+█ ▀▀ ██ ███ ██ ▀▀▄██ ▄█ ▄▄▀█ ██ ██ ███ ▄█ ██ █ ██
+█ ██ ██▄███▄██▄█▄▄█▄▄▄█▄▄▄▄██▄▄▄██▄██▄▄▄██▄▄██▄██▄
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+
+If you use my pack in any online posts, video content, and/or live streams, copy and paste the following statement in your content's description box.
+
+-----------------------------------------------------------------
+|    Resource Pack: Blu-RAE by Puppy RaeLuna                    |
+|    https://modrinth.com/resourcepack/blu-rae                  |
+|    https://www.curseforge.com/minecraft/texture-packs/blu-rae |
+-----------------------------------------------------------------
+
+You don't need to put both the Modrinth and CurseForge link, just link to the site you downloaded this pack from.
+
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+██ █▀▄█▀▄▄▀█████ ▄▄▄██▄█████ ▄▀▄ █ ▄▄
+██ ▄▀██ ██ █▄▄██ ▄▄███ ▄████ █ █ █ ▄▄
+██ ██ ██▄▄██████ ████▄▄▄████ ███ █▄▄▄
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+
+If you want to continue to support me, you can do so by donating at
+
+.--------------------------------.
+| https://ko-fi.com/puppyraeluna |
+'--------------------------------'
+
+I need coffee.
+
+
+ █▄ ▄█ ▄▀▄ █▄█ ▄▀▄ █   ▄▀▄
+ █ ▀ █ █▀█ █ █ █▀█ █▄▄ ▀▄▀
+
+
